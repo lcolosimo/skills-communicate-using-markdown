@@ -11,6 +11,10 @@
 var myVar = "Hello, world!";
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 I am showing the 6 different headers available.
 I added an image.
 And a code example.
