@@ -7,5 +7,10 @@
 
 ![Image of Mona the Riverter Cat](https://octodex.github.com/images/mona-the-rivetertocat.png)
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
 I am showing the 6 different headers available.
-And I added an image.
+I added an image.
+And a code example.
